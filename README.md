@@ -5,7 +5,6 @@ I'm a passionate computer science student with a deep love for coding and a knac
 In my pursuit of knowledge, I've ventured into various programming languages and tools, constantly adding to my toolbox. Whether it's diving into the intricacies of C, the flexibility of Python, or the dynamic world of web development with JavaScript, HTML, and CSS, I'm always up for a coding adventure.
 
 #### Connect with me 📎
-<br>
 <a href="https://www.linkedin.com/in/muhammad-saif-a-8a181620a/">
    <img align="left" alt="LinkedIn" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
