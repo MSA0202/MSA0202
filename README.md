@@ -18,6 +18,10 @@ I'm a computer science student and coding enthusiast who enjoys building project
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSA0202&show_icons=true&theme=radical)
 
+#### Language Usage
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSA0202&theme=radical)
+
 
 
 
