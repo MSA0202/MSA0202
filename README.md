@@ -1,5 +1,9 @@
-# Hi there👋
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<p align="center">
+    <a>
+        <img src="https://tilde.team/~kiedtl/images/cel7/hello.gif" width="800" height="200" alt="MasterHead">
+    </a>
+</p>
+<!-- <img align="right" alt="Coding" width="200" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
 I'm a passionate computer science student with a deep love for coding and a knack for building exciting projects. My journey in the world of technology has been an exciting one, driven by a relentless curiosity to explore and create. From solving complex algorithms to crafting elegant user interfaces, I find joy in the endless possibilities that programming offers.
 
