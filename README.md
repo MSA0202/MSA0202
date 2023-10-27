@@ -40,7 +40,7 @@ In my pursuit of knowledge, I've ventured into various programming languages and
    <img align="left" alt="VSCode" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 <a href="https://circleci.com/">
-   <img align="left" alt="CircleCI" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-original.svg" />
+   <img align="left" alt="CircleCI" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 </a>
 <br clear="left"/>
 
