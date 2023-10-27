@@ -4,6 +4,9 @@ I'm a passionate computer science student with a deep love for coding and a knac
 
 In my pursuit of knowledge, I've ventured into various programming languages and tools, constantly adding to my toolbox. Whether it's diving into the intricacies of C, the flexibility of Python, or the dynamic world of web development with JavaScript, HTML, and CSS, I'm always up for a coding adventure.
 
+#### Connect with me:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhammad-saif-a-8a181620a/)) &nbsp;
+
 #### Languages and Tools
 
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) &nbsp;
@@ -24,6 +27,13 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 #### Language Usage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSA0202&theme=radical)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSA0202&theme=radical)
+
+#### Coding Activity:
+![3D commit graph](https://activity-graph.herokuapp.com/graph?username=MSA0202&theme=react-dark)
+
+#### Profile Views:
+![](https://komarev.com/ghpvc/?username=MSA0202&color=blueviolet&style=flat-square)
 
 
 
