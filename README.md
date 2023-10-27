@@ -10,7 +10,7 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 </a>
 <br clear="left"/>
 
-## Languages and Tools 🔧
+# Languages and Tools 🔧
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
    <img align="left" alt="C" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
