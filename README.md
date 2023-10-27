@@ -36,7 +36,14 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img align="left" alt="JavaScript" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
+<a href="https://code.visualstudio.com/">
+   <img align="left" alt="VSCode" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</a>
+<a href="https://circleci.com/">
+   <img align="left" alt="CircleCI" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-original.svg" />
+</a>
 <br clear="left"/>
+
 
 ## Stats 📊
 
