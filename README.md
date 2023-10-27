@@ -5,7 +5,7 @@ I'm a passionate computer science student with a deep love for coding and a knac
 In my pursuit of knowledge, I've ventured into various programming languages and tools, constantly adding to my toolbox. Whether it's diving into the intricacies of C, the flexibility of Python, or the dynamic world of web development with JavaScript, HTML, and CSS, I'm always up for a coding adventure.
 
 #### Connect with me:
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhammad-saif-a-8a181620a/)) &nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saif-a-8a181620a/)
 
 #### Languages and Tools
 
