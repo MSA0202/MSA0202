@@ -7,7 +7,7 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 #### Connect with me 📎
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saif-a-8a181620a/)
 
-#### Languages and Tools 🔧
+## Languages and Tools 🔧
 
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) &nbsp;
 [![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) &nbsp;
@@ -19,15 +19,15 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### Stats 📊
+## Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSA0202&show_icons=true&theme=radical)
 
-#### Language Usage 📜
+## Language Usage 📜
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSA0202&theme=radical)
 
-#### Profile Views 👁
+### Profile Views 👁
 ![](https://komarev.com/ghpvc/?username=MSA0202&color=blueviolet&style=flat-square)
 
 
