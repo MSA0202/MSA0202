@@ -27,7 +27,6 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 #### Language Usage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSA0202&theme=radical)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MSA0202&theme=radical)
 
 #### Coding Activity:
 ![3D commit graph](https://activity-graph.herokuapp.com/graph?username=MSA0202&theme=react-dark)
