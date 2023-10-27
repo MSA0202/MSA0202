@@ -1,4 +1,4 @@
-# Hi there👋 <img src="https://media0.giphy.com/media/fq8HxnZAkoTybqirPN/giphy.gif?cid=ecf05e47ipaufdhted5jmaa4pvv03ftxj0zhh76cmyvu4e1i&rid=giphy.gif&ct=g" width="30">
+# Hi there👋
 
 I'm a passionate computer science student with a deep love for coding and a knack for building exciting projects. My journey in the world of technology has been an exciting one, driven by a relentless curiosity to explore and create. From solving complex algorithms to crafting elegant user interfaces, I find joy in the endless possibilities that programming offers.
 
