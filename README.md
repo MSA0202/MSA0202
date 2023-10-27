@@ -54,7 +54,7 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSA0202&theme=radical)
 
 ## Profile Views 👁
-![](https://komarev.com/ghpvc/?username=MSA0202&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=MSA0202&color=blueviolet&style=plastic)
 
 
 
