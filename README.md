@@ -1,4 +1,5 @@
 # Hi there👋
+<img align="right" alt="Coding" width="400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a passionate computer science student with a deep love for coding and a knack for building exciting projects. My journey in the world of technology has been an exciting one, driven by a relentless curiosity to explore and create. From solving complex algorithms to crafting elegant user interfaces, I find joy in the endless possibilities that programming offers.
 
