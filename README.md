@@ -36,7 +36,7 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-
+<br clear="left"/>
 
 ## Stats 📊
 
