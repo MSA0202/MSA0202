@@ -1,6 +1,5 @@
 # Hi there👋 <img src="https://media.giphy.com/media/fq8HxnZAkoTybqirPN/giphy.gif" width="30">
 
-
 I'm a passionate computer science student with a deep love for coding and a knack for building exciting projects. My journey in the world of technology has been an exciting one, driven by a relentless curiosity to explore and create. From solving complex algorithms to crafting elegant user interfaces, I find joy in the endless possibilities that programming offers.
 
 In my pursuit of knowledge, I've ventured into various programming languages and tools, constantly adding to my toolbox. Whether it's diving into the intricacies of C, the flexibility of Python, or the dynamic world of web development with JavaScript, HTML, and CSS, I'm always up for a coding adventure.
