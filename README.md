@@ -33,9 +33,6 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 <a href="https://www.python.org/">
    <img align="left" alt="Python" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-   <img align="left" alt="C" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vuejs-original.svg" />
-</a>
 <a href="https://reactjs.org/">
    <img align="left" alt="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
