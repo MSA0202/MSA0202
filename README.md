@@ -24,6 +24,12 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 <a href="https://www.java.com/">
    <img align="left" alt="Java" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </a>
+<a href="https://www.python.org/">
+   <img align="left" alt="Python" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+<a href="https://www.mysql.com/">
+   <img align="left" alt="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</a>
 <a href="https://vuejs.org/">
    <img align="left" alt="Vue" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </a>
@@ -38,9 +44,6 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 </a>
 <a href="https://www.jetbrains.com/idea/">
    <img align="left" alt="IntelliJ IDEA" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-</a>
-<a href="https://www.mysql.com/">
-   <img align="left" alt="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </a>
 <br clear="left"/>
 
