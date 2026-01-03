@@ -47,16 +47,6 @@ In my pursuit of knowledge, I've ventured into various programming languages and
 </a>
 <br clear="left"/>
 
-
-
-# Stats 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSA0202&show_icons=true&theme=radical)
-
-# Language Usage 📜
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSA0202&theme=radical)
-
 ## Profile Views 👁
 ![](https://komarev.com/ghpvc/?username=MSA0202&color=blueviolet&style=plastic)
 
